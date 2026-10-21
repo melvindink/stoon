@@ -1,0 +1,2 @@
+.bio-card summary .bio-portrait {display:block;width:auto;max-width:100%;height:180px;object-fit:contain;align-self:center;flex-shrink:0;border-radius:6px;background:#f8f3e2;margin:0 auto 12px;}
+@media(max-width:600px){.bio-card summary .bio-portrait{height:150px;}}
